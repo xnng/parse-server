@@ -7,7 +7,7 @@ if (env === 'development') {
     appId: 'MY_ID',
     masterKey: 'MY_KEY',
     appName: 'MyApp',
-    databaseURI: 'mongodb://localhost:27017/dev'
+    databaseURI: 'mongodb://api.xnngs.cn:27017/dev'
   }
 } else {
   parseConfig = {
@@ -15,7 +15,7 @@ if (env === 'development') {
     appId: 'MY_ID',
     masterKey: 'MY_KEY',
     appName: 'MyApp',
-    databaseURI: 'mongodb://localhost:27017/dev'
+    databaseURI: 'mongodb://api.xnngs.cn:27017/dev'
   }
 }
 
