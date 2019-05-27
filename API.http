@@ -1,0 +1,5 @@
+### GET 云函数
+POST http://localhost:1337/parse/functions/hello
+X-Parse-Application-Id: MY_ID
+X-Parse-REST-API-Key: MY_API_KEY
+Content-Type: application/json
